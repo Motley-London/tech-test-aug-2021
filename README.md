@@ -5,7 +5,7 @@ The technical test will mainly happen via a (virtual) face-to-face. The various 
 
 ## Part 1
 
-Write a function in Javascript that takes csv data and parses it into an array of objects. The keys for the objects should be taken from the header line in the csv file (i.e. don't assume you know the keys beforehand). And you can assume that all the values are strings. If a value is missing, use an empty string for the output.
+Write a function in Javascript that takes csv data (as a string) and parses it into an array of objects. The keys for the objects should be taken from the header line in the csv file (i.e. don't assume you know the keys beforehand). And you can assume that all the values are strings. If a value is missing, use an empty string for the output.
 
 For example, the input:
 
