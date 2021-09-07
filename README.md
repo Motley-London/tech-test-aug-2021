@@ -66,4 +66,4 @@ This part will be a pair programming exercise where we'll build a small UI compo
 
 ## Part 4
 
-For the final part, we'll ask you to describe how the Javascript event loop works, and how it relates to Promises and async functions.
+For the final part, we'll ask you to describe stack and queue data structures and their differences.
