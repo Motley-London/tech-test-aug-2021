@@ -58,9 +58,11 @@ Some specifics:
 - Discounts and Refunds need to be accounted for
 - You can ignore tax
 
+During the interview, you'll be asked which API endpoints you'd use, and how you'd use the data they return. You'll be able to use/read the API docs and any notes you take during the interview. You don't have to memorise anything, just be familiar with the useful endpoints.
+
 ## Part 3
 
-This part will be a pair programming exercise, where we'll build a small UI component together. We'll start with some boilerplate, and fill in the rest. We'll be using React.js. There isn't anything to prepare for this part.
+This part will be a pair programming exercise where we'll build a small UI component together. We'll start with some boilerplate, and fill in the rest. We'll be using React.js. There isn't anything to prepare for this part.
 
 ## Part 4
 
